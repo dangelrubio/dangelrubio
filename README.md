@@ -6,5 +6,6 @@
 </div>
 
   
-![Static Badge](https://img.shields.io/badge/code_with_me-%23FAEA27) https://img.shields.io/twitter/follow/dangelrubio
+![Static Badge](https://img.shields.io/badge/code_with_me-%23FAEA27) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dangelrubio)
+
 
