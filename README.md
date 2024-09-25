@@ -5,3 +5,4 @@
 <img src="https://i.ibb.co/wQKYGtV/bannergit.png" alt="bannergit" border="0">
 </div>
 
+![Static Badge](https://img.shields.io/badge/code_with_me-%23FAEA27)
