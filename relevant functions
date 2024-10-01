@@ -1,0 +1,3 @@
+//remove whitespaces from a char
+
+$newChar = str_replace( ' ', '', $char );
