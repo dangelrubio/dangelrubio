@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/code_with_me-%23FAEA27) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dangelrubio)
 &nbsp;
 ## 🔧 WIP Webs you can check
-- [Iván✺Ramos](https://ivaneferamos.previaweb.com) Ivan Ramos's designer profesional portfolio HTML | CSS | SASS | PHP ![Static Badge](https://img.shields.io/badge/Watch%20Repo%20-%20yellow)
+- [Iván✺Ramos](https://ivaneferamos.previaweb.com) Ivan Ramos's designer profesional portfolio HTML | CSS | SASS | PHP 
 
 &nbsp;
 
