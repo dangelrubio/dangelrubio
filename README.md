@@ -10,4 +10,4 @@
 
 
 ## What methodologies I use?
-![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png)![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png)
+![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png) ![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png)
