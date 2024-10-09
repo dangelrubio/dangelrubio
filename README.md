@@ -18,4 +18,5 @@
 ![html5](https://github.com/dangelrubio/dangelrubio/blob/main/img/HTML5.png)![css3](https://github.com/dangelrubio/dangelrubio/blob/main/img/CSS3.png)![JavaScript](https://github.com/dangelrubio/dangelrubio/blob/main/img/JS.png)![PHP](https://github.com/dangelrubio/dangelrubio/blob/main/img/PHP.png)![MySQL](https://github.com/dangelrubio/dangelrubio/blob/main/img/MySQL.png)![WordPress Core](https://github.com/dangelrubio/dangelrubio/blob/main/img/WordPress.png)
 &nbsp;
 ## The methodologies I use
-![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png) ![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png) ![oocss](https://github.com/dangelrubio/dangelrubio/blob/main/img/oocss.png)
+![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png) ![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png)
+
