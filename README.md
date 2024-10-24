@@ -19,4 +19,6 @@
 &nbsp;
 ## The methodologies I use
 ![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png) ![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png)
-
+&nbsp;
+## Recommended courses and documentation:
+- [UDEMY HTML RESPONSIVE EMAIL](https://www.udemy.com/share/103BfY3@tc27RRmOUpP8LNzZo20-G5LS2PGXlgc-M-96mksrkiSSZTQjhdJLao1ocJPGuxVyuQ==/)
