@@ -1,24 +1,7 @@
+#¡Te doy la bienvenida!
 
-# Hello! David here! Brave, self-taught, and multidisciplinary.
-</div>
-<div align="center">
-<img src="https://i.ibb.co/wQKYGtV/bannergit.png" alt="bannergit" border="0">
-</div>
+Mi primer contacto con la programación fue por error, si no crees en el destino y demás fantasías. De un fracaso como ingeniero aeroespacial y piloto comercial, volví a aterrizar y poner los pies en el suelo descubriendo lo satsifactorio de iniciar un proyecto y que a alguien (aunque sea un enemigo) le sirva. Ya no digo que le guste, que le sirva. Porque programar va de resolver retos. Y los retos solo se resuelven enfrentándose a ellos. El mayor reto fué promocionarme a mi mismo sin gastar ni un euro. Y eso solo se consigue a base de probar, investigar e invertir el tiempo libre en ello... y molestar. Molestar a gente que sabe más que tú con el simple fin de aprender de ellos. Así se construyen relaciones personales que en mi caso, hoy son amistades valiosísimas. También me abrío puertas y oportunidades laborales. Pero este mundo corre que se las pela y si te quedas quieto acabas en la cola. Mi día a día se basa en seguir aprendiendo para crecer. Lo que empezó como una afición para olvidar un fracaso se ha convertido en la pasión con la que quiero pelear el resto de mi vida. 
 
-  
-![Static Badge](https://img.shields.io/badge/code_with_me-%23FAEA27)
-&nbsp;
-## 🔧 WIP Webs you can check
-- [Iván✺Ramos](https://ivaneferamos.previaweb.com) Ivan Ramos's designer profesional portfolio HTML | CSS | SASS | PHP 
-&nbsp;
-## The software I use
-![VSCode](https://github.com/dangelrubio/dangelrubio/blob/main/img/VSCode.png)![Figma](https://github.com/dangelrubio/dangelrubio/blob/main/img/Figma.png)![FileZilla](https://github.com/dangelrubio/dangelrubio/blob/main/img/FileZilla.png)![HeidiSQL](https://github.com/dangelrubio/dangelrubio/blob/main/img/HeidiSQL.png)![Photoshop](https://github.com/dangelrubio/dangelrubio/blob/main/img/Ps.png)![Illustrator](https://github.com/dangelrubio/dangelrubio/blob/main/img/Ai.png)![Premiere](https://github.com/dangelrubio/dangelrubio/blob/main/img/Pr.png)![Afer Effects](https://github.com/dangelrubio/dangelrubio/blob/main/img/Ae.png)
-&nbsp;
-## The languages I use
-![html5](https://github.com/dangelrubio/dangelrubio/blob/main/img/HTML5.png)![css3](https://github.com/dangelrubio/dangelrubio/blob/main/img/CSS3.png)![JavaScript](https://github.com/dangelrubio/dangelrubio/blob/main/img/JS.png)![PHP](https://github.com/dangelrubio/dangelrubio/blob/main/img/PHP.png)![MySQL](https://github.com/dangelrubio/dangelrubio/blob/main/img/MySQL.png)![WordPress Core](https://github.com/dangelrubio/dangelrubio/blob/main/img/WordPress.png)
-&nbsp;
-## The methodologies I use
-![bem](https://github.com/dangelrubio/dangelrubio/blob/main/img/bem.png) ![sass](https://github.com/dangelrubio/dangelrubio/blob/main/img/sass.png)
-&nbsp;
-## Recommended courses and documentation:
-- [UDEMY HTML RESPONSIVE EMAIL](https://www.udemy.com/share/103BfY3@tc27RRmOUpP8LNzZo20-G5LS2PGXlgc-M-96mksrkiSSZTQjhdJLao1ocJPGuxVyuQ==/)
+En esta cuenta de github comparto algunos de los proyectos, muchos de ellos procesos de aprendizaje en los que te invito a colaborar. Gracias a este espacio puedo compartir con otros programadores mi trayectoria... y ojalá en más de una ocasión construyamos algo juntos.
+
+Te doy la bienvenida a mi espacio. A tu gusto!
